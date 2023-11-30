@@ -1,0 +1,43 @@
+[
+    {
+        "_id": "655c2b093936231c353d43f8",
+        "title": "Eiffel Tower",
+        "name": "John Doe",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDZqImft7eBy-eFCI2MDWrbBMmsUTn4spVpmKVEIHpDSt4tIoS",
+        "place": "Paris",
+        "likes": 3,
+        "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum ipsa et exercitationem at est dignissimos nam quo iure maiores molestiae!",
+        "tags": [
+            "NewYear",
+            "2024"
+        ]
+    },
+    {
+        "_id": "655c2b093936231c353d43f9",
+        "title": "central park",
+        "name": "suneela",
+        "image": "https://cdn.britannica.com/71/189171-050-B4A7DA05/Central-Park-New-York-City.jpg",
+        "place": "usa",
+        "likes": 4,
+        "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum ipsa et exercitationem at est dignissimos nam quo iure maiores molestiae!",
+        "tags": [
+            "Thanksgiving",
+            "2023"
+        ]
+    },
+    {
+        
+        "title":"The Edge",
+        "name": "John",
+        "image": "https://edgenyc.com/sites/default/files/styles/teaser_box_image/public/2023-10/View-Of-Hudson-Yards-From-The-High-Line-Courtesy-Related-Oxford-1%20%284%29.jpeg?itok=w-BuHN2p",
+        "place": "NewYork",
+        "likes": 4,
+        "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum ipsa et exercitationem at est dignissimos nam quo iure maiores molestiae!",
+        "tags": [
+            "Summertrip",
+            "2022"
+        ]
+    }
+
+
+]
