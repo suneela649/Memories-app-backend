@@ -37,7 +37,34 @@
             "Summertrip",
             "2022"
         ]
+    },
+    {
+        
+        "title":"The 360",
+        "name": "swathi",
+        "image": "https://photostorage.explorest.com/usa/illinois/sdamiani-360-chicago-lakeview-compressed.jpg",
+        "place": "illinois",
+        "likes":10,
+        "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum ipsa et exercitationem at est dignissimos nam quo iure maiores molestiae!",
+        "tags": [
+            "winter ",
+            "2023"
+        ]
+    },
+    {
+        
+        "title":"The Exchange place",
+        "name": "Suneela",
+        "image": "https://hobokengirl.com/wp-content/uploads/2018/01/rooftop-lounge-jersey-city-hyatt-house_2834-1024x1024.jpg",
+        "place": "newjersey",
+        "likes":20,
+        "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum ipsa et exercitationem at est dignissimos nam quo iure maiores molestiae!",
+        "tags": [
+            "winter ",
+            "2023"
+        ]
     }
+
 
 
 ]
